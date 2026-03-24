@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# データ・スクリプト（非公開）
+data/
+script/
+
+# エディタ・OS
+.vscode/
+.claude/
+*.code-workspace
+Thumbs.db
+.DS_Store
+
+# その他
+メモ.md
+*.skill
+claude.exe
+CLAUDE.md
